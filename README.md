@@ -8,7 +8,9 @@ This project covers the end-to-end data journey: Collect, Process, Store, Analyz
 ### 1. Data Processing & Storage (BigQuery)
 I used BigQuery to transform raw loan data into a structured reporting format.
 * **Key Skills:** SQL Joins, Deduplication, Data Cleaning.
-* ![BigQuery Snapshot](Your-BigQuery-Image-Name.png) 
+* ![BigQuery Snapshot](Your-BigQuery-Image-Name.png)
+* ![Alt text for the image](BigQuery studio.png)
+
 
 ### 2. Data Visualization (Looker Enterprise)
 I architected an interactive dashboard to track loan performance.
