@@ -9,14 +9,14 @@ The Treasury Department, led by the Head of Treasury (Trevor), identified three 
 
 - **Cash Flow Management:** Ensuring loan payments did not exceed incoming capital.
 
-- **Risk Mitigation (Loan Purpose):** Identifying high-risk loan reasons to improve repayment forecasting.
+- **Risk Mitigation (Loan Purpose):** Identifying high-risk loan reasons to improve loan repayment.
 
-- **Geographic Concentration:** Mapping borrower locations to prevent "collective default risk" caused by over-exposure in specific regions.
+- **Geographic Concentration:** Mapping borrower locations to prevent "collective default risk" caused by high concentrations of loans in one regions.
 
 **Data Understanding & Process**
 I managed the first three stages of the data journey (Collect, Process, Store) using BigQuery. My approach leveraged my 7 years of QA experience to ensure 100% data integrity before analysis:
 
-- **Environment Setup:** Configured the BigQuery ecosystem to handle fintech-scale datasets.
+- **Environment Setup:** Configured the BigQuery studio to handle fintech-scale datasets.
 
 - **Data Ingestion & Cleaning:** Imported raw CSV files and state classifications. 
 I used SQL to perform Deduplication (using SELECT DISTINCT) and Data Validation to ensure no duplicate loan IDs skewed the cash flow metrics.
