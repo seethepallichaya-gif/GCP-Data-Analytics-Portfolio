@@ -7,9 +7,9 @@ The project involved transforming raw, unstructured loan data into a validated, 
 **Business Understanding**
 The Treasury Department, led by the Head of Treasury (Trevor), identified three critical areas to track the company's financial stability:
 
-**Cash Flow Management:** Ensuring loan payments did not exceed incoming capital.
+- **Cash Flow Management:** Ensuring loan payments did not exceed incoming capital.
 
-**Risk Mitigation (Loan Purpose):** Identifying high-risk loan reasons to improve repayment forecasting.
+- **Risk Mitigation (Loan Purpose):** Identifying high-risk loan reasons to improve repayment forecasting.
 
 **Geographic Concentration:** Mapping borrower locations to prevent "collective default risk" caused by over-exposure in specific regions.
 
