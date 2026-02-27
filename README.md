@@ -82,6 +82,6 @@ The Looker dashboard successfully moved the Treasury department from "Reading Ro
 
 - **Strategic Growth:** By identifying the "Homeowner" segments, the marketing team can now tailor products to the most reliable borrowers.
 
-## 📬 Contact Me: 732-277-8415
+### 📬 Contact Me: 732-277-8415
 * **LinkedIn:** (https://www.linkedin.com/in/chaya-seethepalli/)
 * **Background:** 7 years of QA Manual & Automation Testing | Specialized in Data Validation & GCP
