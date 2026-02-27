@@ -1,4 +1,4 @@
-Project Title: Fintech Loan Performance & Cash Flow Analysis (GCP)
+**Project Title:** Fintech Loan Performance & Cash Flow Analysis (GCP)
 Project Overview
 As a Cloud Data Analyst at TheLook Fintech, a high-growth startup, I designed an end-to-end data solution within Google Cloud Platform. 
 The project involved transforming raw, unstructured loan data into a validated, queryable environment in BigQuery to support the Treasury Department’s scaling efforts.
